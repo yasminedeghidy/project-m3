@@ -1,1 +1,1 @@
-# User and Posts controller
+# Users and Posts controller
